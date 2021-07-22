@@ -1,0 +1,39 @@
+
+   
+.abc {
+    margin-top:20px;
+    border-radius:10px;
+    background-color:black;
+    width:500px;
+    background-image:url('des.jpg');
+    
+}
+.p3 {
+  
+    color:white;
+    font-family:'digital-clock-font',monospace;
+}
+#image {
+    padding-left:70px;
+}
+h1{
+    padding-top:20px;
+    font-family:'digital-clock-font',monospace;
+    padding-bottom:30px;
+    font-size:30px;
+}
+#sub {
+   margin-top:25px;
+   border-radius:10px;
+  
+}
+#age {
+
+  width:100px;
+   
+}
+
+
+.design {
+background-image:url('des.jpg');
+}
